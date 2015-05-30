@@ -1,0 +1,27 @@
+var BMIController = {
+
+    init:function(){
+    
+    
+    },
+    
+    setForm: function() {
+    
+    
+    },
+    
+    calculateBMI: function(form) {
+    
+    
+    
+    },
+    
+    showResult: function(result) {
+    
+    
+    },
+};
+
+
+
+};
